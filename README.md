@@ -114,3 +114,11 @@ You should now be able to go to https://XXXX-XXXX/ and call legacy SIP clients. 
 - Outbound Proxy: wss://XXXX-XXXX/ws
 
 To manually configure other TURN servers, change the config in `client/config.js`.
+
+
+web：
+https://www.resipwebrtc.com  
+- Display name: Whatever
+- SIP URI: 1101@39.108.167.93:5769
+- Password: 4123
+- Outbound Proxy: wss://39.108.167.93:4443/ws
