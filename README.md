@@ -126,3 +126,9 @@ web:
 - Outbound Proxy: wss://39.108.167.93:4443/ws
 
 Android:
+
+
+
+IOS:
+
+
