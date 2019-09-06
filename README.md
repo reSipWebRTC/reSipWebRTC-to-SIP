@@ -121,16 +121,18 @@ web:
   https://www.resipwebrtc.com  
 
 - Display name: Whatever
-- SIP URI: 1101@39.108.167.93:5769
+- SIP URI: 1106@39.108.167.93:5769
 - Password: 4123
 - Outbound Proxy: wss://39.108.167.93:4443/ws
 
 Android:
 
+1107 4123 39.108.167.93:5769
 https://github.com/reSipWebRTC/reSipWebRTC-Android
 
 
 IOS:
 
+1108 4123 39.108.167.93:5769
 https://github.com/reSipWebRTC/reSipWebRTC-IOS
 
