@@ -49,7 +49,7 @@ apt-get install -y ngcp-rtpengine
 
 After you have successfully installed RTPEngine, copy the configuration from this repository.
 ```bash
-cd WEBRTC-to-SIP
+cd reSipWebRTC-to-SIP
 cp etc/default/ngcp-rtpengine-daemon /etc/default/
 cp etc/rtpengine/rtpengine.conf /etc/rtpengine/
 /etc/init.d/ngcp-rtpengine-daemon restart
